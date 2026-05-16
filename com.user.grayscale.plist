@@ -6,7 +6,7 @@
 <dict>
 
     <key>Label</key>
-    <string>com.user.grayscale-toggle</string>
+    <string>com.user.grayscale</string>
 
     <key>ProgramArguments</key>
     <array>
@@ -37,10 +37,10 @@
     </array>
 
     <key>StandardOutPath</key>
-    <string>/tmp/grayscale-toggle.log</string>
+    <string>/tmp/grayscale.log</string>
 
     <key>StandardErrorPath</key>
-    <string>/tmp/grayscale-toggle.err</string>
+    <string>/tmp/grayscale.err</string>
 
 </dict>
 </plist>
